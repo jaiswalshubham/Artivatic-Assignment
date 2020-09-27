@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863801603367",
+    "firebase_url": "https://artivatic-assignment.firebaseio.com",
+    "project_id": "artivatic-assignment",
+    "storage_bucket": "artivatic-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863801603367:android:10e08b6e15b290d4722502",
+        "android_client_info": {
+          "package_name": "ai.artivatic.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863801603367-ldn5us5d1sout5tcceireq3lnqrhkhbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz4wkYp9XqWmqKxk7z5DlE65v-G_6doyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863801603367-ldn5us5d1sout5tcceireq3lnqrhkhbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

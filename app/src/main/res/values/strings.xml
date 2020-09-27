@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Artivatic Assignment</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="back">Back</string>
+    <string name="search_text">Search text</string>
+    <string name="bitmap">Bitmap</string>
+    <string name="back_button_alert_message">Are you sure you want to exit the application?</string>
+    <string name="no_text_found_text">Oops! No Text Found</string>
+    <string name="recapture">Recapture</string>
+    <string name="text_found_text">Text Found</string>
+    <string name="text_not_found">Text not found</string>
+    <string name="pick_from_gallery">Pick from Gallery</string>
+</resources>
